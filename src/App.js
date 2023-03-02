@@ -9,7 +9,7 @@ const App = () => {
   return (
     <div className="MainDiv">
     <div class="humberger__menu__overlay"></div>
-      <div class="humberger__menu__wrapper">
+      {/* <div class="humberger__menu__wrapper">
           <div class="humberger__menu__logo">
               <a href="#" class="logo">V-Shop</a>
           </div>
@@ -63,10 +63,10 @@ const App = () => {
                   <li>Free Shipping for all Order of $99</li>
               </ul>
           </div>
-      </div>
+      </div> */}
      {/* -------*******************************************----------------------------------------------- */}
      <RouterProvider router={router} />
-     
+    
       {/* <section class="categories">
           <div class="container">
               <div class="row">

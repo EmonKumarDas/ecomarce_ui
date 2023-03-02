@@ -319,6 +319,7 @@ ol {
 	display: inline-block;
 	margin-right: 40px;
 	cursor: pointer;
+	
 }
 
 .header__top__right__language:hover ul {
@@ -883,6 +884,7 @@ ol {
 
 .featured__item {
 	margin-bottom: 50px;
+	border: 1px solid rgba(102, 101, 101, 0.178);
 }
 
 .featured__item:hover .featured__item__pic .featured__item__pic__hover {
