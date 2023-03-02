@@ -13,7 +13,6 @@
 [data-icon]:before {
 	font-family: 'ElegantIcons';
 	content: attr(data-icon);
-	speak: none;
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
